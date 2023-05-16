@@ -8,11 +8,11 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=BIM%20Developer;Never%20Stop%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=BIM%20Manager;Never%20Stop%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a BIM Manager.
-- 👨‍💻 Also, I am a BIM Software Instructor, and BIM Instructor.
+- 👨‍💻 Also, I am a BIM Software Instructor, and BIM Developer.
 - 💬 Experience with C#, Python, JS, HTML, CSS and VB.NET.
 
 
