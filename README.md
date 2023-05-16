@@ -13,7 +13,7 @@
 
 - 🏢 I'm a BIM Manager.
 - 👨‍💻 Also, I am a BIM Software Instructor, and BIM Developer.
-- 💬 Experience with C#, Python, JS, HTML, CSS and VB.NET.
+- 💬 Experience with C#, Python, JS, HTML, CSS , SQL, and VB.NET.
 
 
 
